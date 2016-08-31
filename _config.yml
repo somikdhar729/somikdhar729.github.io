@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Prakhar Agarwal - Personal Webpage"
+title                    : "Prakhar Agarwal"
 title_separator          : "-"
-name                     : "Prakhar"
+name                     : "Prakhar Agarwal"
 description              : "Personal Webpage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : prakhar-agarwal/prakhar-agarwal.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,26 +81,26 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : # "I am an amazing person."
   location         : # "Somewhere"
-  email            :
+  email            : prakharagarwal2511@gmail.com
   uri              :
-  bitbucket        :
+  bitbucket        : https://bitbucket.org/prakhar_agarwal/
   codepen          :
-  dribbble         :
+  dribbble         : 
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/prakharagarwal25
   foursquare       :
-  github           :
-  google_plus      :
+  github           : https://github.com/prakhar-agarwal/
+  google_plus      : https://plus.google.com/u/0/+PrakharAgarwal2511
   keybase          :
-  instagram        :
+  instagram        : https://www.instagram.com/prakharagarwal2511/
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/prakharagarwal2511
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/prakhar5050
   vine             :
   weibo            :
   xing             :
