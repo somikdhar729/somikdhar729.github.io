@@ -4,7 +4,7 @@ main:
     url: https://prakhar-agarwal.github.io/
 
   - title: "Work"
-    url: /
+    url: /_pages/work.md
     
   - title: "Projects"
     url: /
