@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google  #false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-83430333-1
 
 
 # Site Author
@@ -87,20 +87,20 @@ author:
   codepen          :
   dribbble         : 
   flickr           :
-  facebook         : https://www.facebook.com/prakharagarwal25
+  facebook         : prakharagarwal25
   foursquare       :
-  github           : https://github.com/prakhar-agarwal/
-  google_plus      : https://plus.google.com/u/0/+PrakharAgarwal2511
+  github           : prakhar-agarwal/
+  google_plus      : u/0/+PrakharAgarwal2511
   keybase          :
-  instagram        : https://www.instagram.com/prakharagarwal2511/
+  instagram        : prakharagarwal2511/
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/prakharagarwal2511
+  linkedin         : prakharagarwal2511
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/prakhar5050
+  twitter          : prakhar5050
   vine             :
   weibo            :
   xing             :
