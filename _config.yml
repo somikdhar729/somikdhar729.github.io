@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Prakhar Agarwal"
 title_separator          : "-"
-name                     : "Prakhar Agarwal"
+name                     : "PrakharAgarwal"
 description              : "Personal Webpage"
 url                      : https://prakhar-agarwal.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   location         : # "Somewhere"
   email            : prakharagarwal2511@gmail.com
   uri              :
-  bitbucket        : https://bitbucket.org/prakhar_agarwal/
+  bitbucket        : prakhar_agarwal/
   codepen          :
   dribbble         : 
   flickr           :
