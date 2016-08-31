@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Home"
+    url: https://prakhar-agarwal.github.io/
 
-  - title: "Sample Navigation Link 2"
+  - title: "Work"
+    url: /
+    
+  - title: "Projects"
+    url: /
+    
+  - title: "Achievements"
+    url: /
+    
+  - title: "Resume"
     url: /
