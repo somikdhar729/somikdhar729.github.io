@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Prakhar Agarwal"
 title_separator          : "-"
-name                     : "PrakharAgarwal"
-description              : "Personal Webpage"
+name                     : "Prakhar Agarwal"
+description              : "Prakhar Agarwal - Personal Webpage"
 url                      : https://prakhar-agarwal.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : prakhar-agarwal/prakhar-agarwal.github.io
@@ -66,7 +66,9 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+  - "https://www.linkedin.com/in/prakharagarwal2511"
+  # An array of links to social media profiles
 
 # Analytics
 analytics:
