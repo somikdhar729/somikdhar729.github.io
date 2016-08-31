@@ -1,6 +1,6 @@
 ---
 title: "work"
-layout: single
+layout: page
 sitemap: false
 permalink: /work.md
 ---
