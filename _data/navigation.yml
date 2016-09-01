@@ -4,10 +4,10 @@ main:
     url: https://prakhar-agarwal.github.io/
 
   - title: "Work"
-    url: /work/
+    url: work/
     
   - title: "Projects"
-    url: /projects/
+    url: projects/
     
   - title: "Achievements"
     url: /
