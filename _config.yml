@@ -243,7 +243,6 @@ defaults:
       layout: single
       author_profile: true
       
-defaults:
   # _posts
   - scope:
       path: ""
