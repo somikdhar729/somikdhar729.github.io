@@ -10,7 +10,7 @@ main:
     url: projects/
     
   - title: "Achievements"
-    url: /
+    url: achievements/
     
   - title: "Resume"
     url: https://vidhijainblog.wordpress.com/
