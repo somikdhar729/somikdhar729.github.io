@@ -19,7 +19,7 @@ feature:
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis
-NEC Laboratories, Heidelberg, Germany
+*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
 
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at frankfurt commerzbank arena."
