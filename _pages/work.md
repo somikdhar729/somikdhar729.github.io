@@ -23,6 +23,11 @@ feature:
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at frankfurt commerzbank arena."
 
+
+### Research Assistant
+#### NEC Laboratories Europe
+#### January 2016 – July 2016 (7 months)Heidelberg Area, Germany
+
 ### Cookies and Web Beacons
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. MadeMistakes.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
