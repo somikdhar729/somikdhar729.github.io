@@ -28,15 +28,24 @@ My team is responsible for seamless data integration across different data platf
 
 Bachelor Thesis <br />
 *NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016
-
+Guide: Mischa Schmidt, Senior Researcher at NEC Europe
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
 
 ### Research Intern <img src="https://prakhar-agarwal.github.io/images/bosch.png" alt="Drawing" width="100" height="50" align="right"/>
 
+*Robert Bosch Cooporate Research, Bengaluru, India* \| June 2015 – Aug 2015 <br>
+Guide: Dr. Kumar Padmanabh, Lead Scientist/Researcher in "Internet of Things"
 Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
 Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning <br />
 ***Patent Pending***
+
+### Undergraduate Research Assistant <img src="https://prakhar-agarwal.github.io/images/ceeri.gif" alt="Drawing" width="100" height="100" align="right"/>
+
+*Machine Vision Lab, Council of Scientific & Industrial Research, CEERI, Pilani, India* \| Aug 2014 – Jan 2015 <br>
+Guide: Dr. Jagdish Raheja, Senior Principal Scientist, Group Head, Computer Vision Division, CEERI Pilani
+Worked on Automated Feature set construction for Object recognition using Genetic Algorithms
+Designed a Genetic Programming system which aided classification and outperformed traditional Haralik features by a fair margin.
 
 
   
