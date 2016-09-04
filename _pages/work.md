@@ -53,8 +53,8 @@ Designed a Genetic Programming system which aided classification and outperforme
 Guide: Prof. Rahul Banerjee, Head of Department, Computer Science Engineering, BITS Pilani<br>
 Co-Guide: Rajkiran Reddy, TCS Research Scholar, BITS Pilani<br>
 Developed a fault tolerant, software tool to monitor vital signs in real time.
-Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using stream mining algorithms (CUSUM).
-[University Project group profile:](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
+Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using stream mining algorithms (CUSUM).<br>
+*[University Project group profile:(&#x1F4D8;)]*(http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
 
   
 ### Cookies and Web Beacons
