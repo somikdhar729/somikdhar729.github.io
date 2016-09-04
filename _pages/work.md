@@ -16,9 +16,9 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-<h2> Research Assistant <h2><img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
-<hr>
-<h3>Bachelor Thesis <h3>
+### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
+
+Bachelor Thesis
 NEC Laboratories, Heidelberg, Germany
 
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
