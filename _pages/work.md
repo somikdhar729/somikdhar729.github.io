@@ -16,7 +16,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-### Research Assistant<img src="prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
+### Research Assistant<img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
 #### NEC Laboratories, Heidelberg, Germany
 
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings.
