@@ -27,14 +27,14 @@ My work includes building generic platform for seamless data integration across 
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
-*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016
+*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016<br>
 Guide: Mischa Schmidt, Senior Researcher at NEC Europe<br>
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
 
 ### Research Intern <img src="https://prakhar-agarwal.github.io/images/bosch.png" alt="Drawing" width="100" height="50" align="right"/>
 
-*Robert Bosch Cooporate Research, Bengaluru, India* \| June 2015 – Aug 2015
+*Robert Bosch Cooporate Research, Bengaluru, India* \| June 2015 – Aug 2015<br>
 Guide: Dr. Kumar Padmanabh, Lead Scientist/Researcher in "Internet of Things"<br>
 Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
 Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning <br />
@@ -55,15 +55,3 @@ Co-Guide: Rajkiran Reddy, TCS Research Scholar, BITS Pilani<br>
 Developed a fault tolerant, software tool to monitor vital signs in real time.
 Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using stream mining algorithms (CUSUM).<br>
 [University Project group profile](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
-
-  
-### Cookies and Web Beacons
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. MadeMistakes.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Amazon
-
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon's Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-
