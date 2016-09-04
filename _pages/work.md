@@ -21,7 +21,7 @@ feature:
 *WalmartLabs, Bengaluru, India* \| August 2016 – Present
 
 Working in the DIDC team which focuses on building a data fabric platform that caters to the needs of real time events processing and batch data processing by using latest technologies.
-My team is responsible for seamless data integration across different data platforms covering traditional RDBMS and Big Data platforms.
+My team is responsible for seamless data integration across different data platforms covering traditional RDBMS and Big Data platforms (HDFS, Map/Reduce, Oozie, Hive etc.,).
 
 
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
