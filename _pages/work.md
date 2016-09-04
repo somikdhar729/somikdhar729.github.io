@@ -16,7 +16,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-### Software Developer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="140" height="50" align="right"/>
+### Software Developer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
 *NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
