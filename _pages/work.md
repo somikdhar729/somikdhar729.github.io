@@ -32,9 +32,15 @@ Bachelor Thesis <br />
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
 
+### Research Intern <img src="https://prakhar-agarwal.github.io/images/bosch.png" alt="Drawing" width="100" height="50" align="right"/>
+
+Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
+Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning
+***Patent Pending***
 
 
-
+  
+  
 ### Cookies and Web Beacons
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. MadeMistakes.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
