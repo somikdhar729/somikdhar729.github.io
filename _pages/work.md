@@ -16,13 +16,25 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
+### Software Developer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="140" height="50" align="right"/>
+
+Bachelor Thesis <br />
+*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
+
+Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
+The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
+
+
+
+
+
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
 *NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
 
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
-The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at frankfurt commerzbank arena."
+The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
 
 
 
