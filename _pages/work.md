@@ -54,4 +54,4 @@ Guide: Prof. Rahul Banerjee, Head of Department, Computer Science Engineering, B
 Co-Guide: Rajkiran Reddy, TCS Research Scholar, BITS Pilani<br>
 Developed a fault tolerant, software tool to monitor vital signs in real time.
 Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using stream mining algorithms (CUSUM).<br>
-[University Project group profile](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
+[*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
