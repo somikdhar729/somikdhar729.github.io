@@ -25,9 +25,7 @@ Worked on Deep Feature synthesis towards automating Data Science endeavors for E
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at frankfurt commerzbank arena."
 
 
-### Research Assistant
-#### NEC Laboratories Europe
-#### January 2016 – July 2016 (7 months)Heidelberg Area, Germany
+
 
 ### Cookies and Web Beacons
 
