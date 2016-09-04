@@ -18,20 +18,16 @@ feature:
 
 ### Software Developer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
-Bachelor Thesis <br />
-*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
+*WalmartLabs, Bengaluru, India* \| August 2016 – Present
 
-Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
-The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
-
-
-
+Working in the DIDC team which focuses on building a data fabric platform that caters to the needs of real time events processing and batch data processing by using latest technologies.
+My team is responsible for seamless data integration across different data platforms covering traditional RDBMS and Big Data platforms.
 
 
 ### Research Assistant <img src="https://prakhar-agarwal.github.io/images/Nec.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Bachelor Thesis <br />
-*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016 (7 months)
+*NEC Laboratories, Heidelberg, Germany* \| January 2016 – July 2016
 
 Worked on Deep Feature synthesis towards automating Data Science endeavors for Energy Saving on buildings using Machine Learning.
 The results of my work ​were used in EU project "Data-Driven investigation of large scale Cooling System at Frankfurt commerzbank arena, Germany."
