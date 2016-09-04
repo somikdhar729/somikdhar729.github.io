@@ -35,7 +35,7 @@ The results of my work ​were used in EU project "Data-Driven investigation of 
 ### Research Intern <img src="https://prakhar-agarwal.github.io/images/bosch.png" alt="Drawing" width="100" height="50" align="right"/>
 
 Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
-Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning
+Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning <br />
 ***Patent Pending***
 
 
