@@ -16,7 +16,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-#### Email
+#### Email :
  [prakharagarwal2511@gmail.com](mailto:prakharagarwal2511@gmail.com) <br>
  [f2012277@pilani.bits-pilani.ac.in](mailto:f2012277@pilani.bits-pilani.ac.in)
 
