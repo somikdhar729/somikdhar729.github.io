@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: https://prakhar-agarwal.github.io/
+    url: /
 
   - title: "Work"
     url: work/
