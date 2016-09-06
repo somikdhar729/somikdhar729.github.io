@@ -14,3 +14,6 @@ main:
     
   - title: "Resume"
     url: /
+    
+  - title: "Contact"
+    url: contact/
