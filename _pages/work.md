@@ -47,7 +47,7 @@ Guide: Dr. Jagdish Raheja, Senior Principal Scientist, Group Head, Computer Visi
 Worked on Automated Feature set construction for Object recognition using Genetic Algorithms
 Designed a Genetic Programming system which aided classification and outperformed traditional Haralik features by a fair margin.
 
-### Undergraduate Software Developer <img src="https://prakhar-agarwal.github.io/images/bits.gif" alt="Drawing" width="100" height="50" align="right"/>
+### Undergraduate Software Developer <img src="https://prakhar-agarwal.github.io/images/bits.gif" alt="Drawing" width="150" height="80" align="right"/>
 
 *Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
 Guide: Prof. Rahul Banerjee, Head of Department, Computer Science Engineering, BITS Pilani<br>
