@@ -16,6 +16,9 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
+<h3>Honors and Awards<h3>
+<hr>
+
 - National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15)
 - IBM Bluemix Hackathon (Finished 2nd in a 24hrs event)
 - Selected for INSPIRE scholarship, 2012
