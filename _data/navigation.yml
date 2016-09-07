@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: #
+    url: /
 
   - title: "Work"
     url: work/
@@ -13,7 +13,7 @@ main:
     url: achievements/
     
   - title: "Resume"
-    url: /
+    url: resume/
     
   - title: "Contact"
     url: contact/
