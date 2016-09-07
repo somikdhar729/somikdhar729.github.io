@@ -4,16 +4,16 @@ main:
     url: #
 
   - title: "Work"
-    url: /work/
+    url: work/
     
   - title: "Projects"
-    url: /projects/
+    url: projects/
     
   - title: "Achievements"
-    url: /achievements/
+    url: achievements/
     
   - title: "Resume"
     url: /
     
   - title: "Contact"
-    url: /contact/
+    url: contact/
