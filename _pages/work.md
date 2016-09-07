@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /work/
-title: "Work Portfolio"
+title: ""
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
 excerpt: "I've worked at a few places too."
@@ -13,10 +13,10 @@ feature:
   headline: "Featured Work"
   category: work
 ---
-
+### Work Portfolio
 {{ page.excerpt | markdownify }}
 
-### Software Engineer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
+### __Software Engineer__ <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
 *WalmartLabs, Bengaluru, India* \| August 2016 – Present
 
