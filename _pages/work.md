@@ -14,9 +14,10 @@ feature:
   category: work
 ---
 ### Work Portfolio
+<hr>
 {{ page.excerpt | markdownify }}
 
-### __Software Engineer__ <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
+### Software Engineer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
 *WalmartLabs, Bengaluru, India* \| August 2016 – Present
 Working in the DIDC team which focuses on building a data fabric platform that caters to the needs of real time events processing and batch data processing by using latest technologies.
