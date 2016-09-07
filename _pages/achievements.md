@@ -16,7 +16,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-<h3>Honors and Awards<h3>
+#### Honors and Awards
 <hr>
 
 - National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15)
