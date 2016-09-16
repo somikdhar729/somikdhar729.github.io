@@ -51,10 +51,11 @@ Designed a Genetic Programming system which aided classification and outperforme
 
 *BITS LifeGuard - Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
 Developed a fault tolerant, software tool to monitor vital signs in sensor data using Stream mining in realtime.<br>
-:point_right:[*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)<br>
+:point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)<br>
 
 *Domain Neutral Computation Framework - Software Developement and Technology Unit* \| Jan, 2015-Dec, 2015 <br>
 Built an API driven architecture which enables verifiable large-scale distributed deployment.
 Currently being used to extend Computation capabilities of Project ANY-LEARN- MOOC, initiative of BITS Pilani, build on top OpenEdx (Platform developed by the non-profit organization founded by Harvard and MIT) by permiting processing of requests from multiple heterogeneous sources concurrently.<br>
-:point_right:[*BITS MOOC platform (Any-Learn)*](http://any-learn.bits-pilani.ac.in/)<br>
-:point_right:[*University Project group profile*](http://www.bits-pilani.ac.in/pilani/anylearn/People)
+:point_right: [*BITS MOOC platform (Any-Learn)*](http://any-learn.bits-pilani.ac.in/)<br>
+:point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/anylearn/People)
+ http://www.bits-pilani.ac.in/pilani/anylearn/People
