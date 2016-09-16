@@ -17,7 +17,7 @@ feature:
 {{ page.excerpt | markdownify }}
 
 ### BITS LifeGuard – Driver Safety Jacket (Oct, 2014-Feb, 2015)<br>
-<h4> Research & Development initiatives at BITS Pilani under the umbrella of the BITS Wearable Computing project: BITS-WearComp.<h4>
+<h4> Research & Development initiatives at BITS Pilani under the umbrella of the BITS Wearable Computing project: BITS-WearComp.<h4><br>
 
 *Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
 Guide: Prof. Rahul Banerjee, Head of Department, Computer Science Engineering, BITS Pilani<br>
