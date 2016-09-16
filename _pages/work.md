@@ -49,9 +49,12 @@ Designed a Genetic Programming system which aided classification and outperforme
 
 ### Undergraduate Software Developer <img src="https://prakhar-agarwal.github.io/images/bits.gif" alt="Drawing" width="150" height="80" align="right"/>
 
-*Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
-Guide: Prof. Rahul Banerjee, Head of Department, Computer Science Engineering, BITS Pilani<br>
-Co-Guide: Rajkiran Reddy, TCS Research Scholar, BITS Pilani<br>
-Developed a fault tolerant, software tool to monitor vital signs in real time.
-Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using stream mining algorithms (CUSUM).<br>
-[__*University Project group profile*__](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
+*BITS LifeGuard - Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
+Developed a fault tolerant, software tool to monitor vital signs in sensor data using Stream mining in realtime.
+[*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)<br>
+
+*Domain Neutral Computation Framework - Software Developement and Technology Unit* \| Jan, 2015-Dec, 2015 <br>
+Built an API driven architecture which enables verifiable large-scale distributed deployment.
+Currently being used to extend Computation capabilities of Project ANY-LEARN- MOOC, initiative of BITS Pilani, build on top OpenEdx (Platform developed by the non-profit organization founded by Harvard and MIT) by permiting processing of requests from multiple heterogeneous sources concurrently.<br>
+[*BITS MOOC platform (Any-Learn)*](http://any-learn.bits-pilani.ac.in/)<br>
+[*University Project group profile*](http://www.bits-pilani.ac.in/pilani/anylearn/People)
