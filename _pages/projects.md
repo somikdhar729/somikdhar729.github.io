@@ -26,6 +26,6 @@ Implemented methods which learns from GSR (Galvanic Skin Response) and other phy
 :point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
 
 ### Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
-Guide: Dr. Surekha Bhanot, Professor and Chief, Instrumentation Unit, BITS Pilani
+Guide: Dr. Surekha Bhanot, Professor and Chief, Instrumentation Unit, BITS Pilani<br>
 Modelled and tested automated Quadcopter control across one degree of freedom
 Used neural networks to perform reinforcement learning in a continuous action space using FANN (Fast Artificial Neural Network) library.
