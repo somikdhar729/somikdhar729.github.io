@@ -50,7 +50,7 @@ Designed a Genetic Programming system which aided classification and outperforme
 ### Undergraduate Software Developer <img src="https://prakhar-agarwal.github.io/images/bits.gif" alt="Drawing" width="150" height="80" align="right"/>
 
 *BITS LifeGuard - Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
-Developed a fault tolerant, software tool to monitor vital signs in sensor data using Stream mining in realtime.
+Developed a fault tolerant, software tool to monitor vital signs in sensor data using Stream mining in realtime.<br>
 [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)<br>
 
 *Domain Neutral Computation Framework - Software Developement and Technology Unit* \| Jan, 2015-Dec, 2015 <br>
