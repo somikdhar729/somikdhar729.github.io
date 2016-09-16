@@ -16,7 +16,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-### BITS LifeGuard – Driver Safety Jacket (Oct, 2014-Feb, 2015)
+### BITS LifeGuard – Driver Safety Jacket (Oct, 2014-Feb, 2015)<br>
 #### Research & Development initiatives at BITS Pilani under the umbrella of the BITS Wearable Computing project: BITS-WearComp.
 
 *Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
@@ -26,7 +26,7 @@ Developed a fault tolerant, software tool to monitor vital signs in real time.
 Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using Data Stream Mining.<br>
 :point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
 
-###Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
+### Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
 Guide: Dr. Surekha Bhanot, Professor and Chief, Instrumentation Unit, BITS Pilani
 Modelled and tested automated Quadcopter control across one degree of freedom
 Used neural networks to perform reinforcement learning in a continuous action space using FANN (Fast Artificial Neural Network) library.
