@@ -37,7 +37,7 @@ The results of my work ​were used in EU project "Data-Driven investigation of 
 *Robert Bosch Cooporate Research, Bengaluru, India* \| June 2015 – Aug 2015<br>
 Guide: Dr. Kumar Padmanabh, Lead Scientist/Researcher in "Internet of Things"<br>
 Worked on Electricity Demand forecasting for user profiling using various clustering algorithms and distributed graph edit distance calculation algorithms.
-Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning <br />
+Designed a fault tolerant, real-time system with a capability to be used for load profiling and peak prediction from Day 0 using Machine Learning. <br />
 ***Patent Pending***
 
 ### Undergraduate Research Assistant <img src="https://prakhar-agarwal.github.io/images/ceeri.gif" alt="Drawing" width="100" height="100" align="right"/>
@@ -58,4 +58,3 @@ Built an API driven architecture which enables verifiable large-scale distribute
 Currently being used to extend Computation capabilities of Project ANY-LEARN- MOOC, initiative of BITS Pilani, build on top OpenEdx (Platform developed by the non-profit organization founded by Harvard and MIT) by permiting processing of requests from multiple heterogeneous sources concurrently.<br>
 :point_right: [*BITS MOOC platform (Any-Learn)*](http://any-learn.bits-pilani.ac.in/)<br>
 :point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/anylearn/People)
- http://www.bits-pilani.ac.in/pilani/anylearn/People
