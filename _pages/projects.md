@@ -26,3 +26,7 @@ Implemented methods which learns from GSR (Galvanic Skin Response) and other phy
 ### Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
 **Modelled and tested automated Quadcopter control across one degree of freedom
 Used neural networks to perform reinforcement learning in a continuous action space using FANN (Fast Artificial Neural Network) library.
+
+### Sentiment Analysis on Twitter feed using Active Learning <br>
+**Used active learning with a linear Support Vector Machine for learning sentiment classification models to be applied to
+microblogging data streams.
