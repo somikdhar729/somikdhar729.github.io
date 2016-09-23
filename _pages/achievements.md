@@ -26,3 +26,15 @@ feature:
 - Credited with a Scholar Blazer for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur
 - A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05%)
 - Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015
+
+
+### Position of Responsibility
+Some of the chances where I got to share ideas and discuss problems.
+<hr>
+- Professional Assistant, Software Design Educational Technology Unit (SDET), BITS Pilani
+- Teaching Assistant Computer Networks offered by BITS Pilani [Course Nos.:  CS F 303 / IS F 303]
+      o Responsible for redesigning the lab experiments and Development of the corresponding Lab Sheets
+      o Conducted hands on session on Working with LINUX
+- Vice President, Technology and Products, ARISE IMPACT (a non-profit NGO)
+- Project Chairperson, Association for Computing Machinery, Students Chapter BITS Pilani (2013-2015)
+- Co-organizer at Google Developers Group, BITS Pilani (2014-2015)
