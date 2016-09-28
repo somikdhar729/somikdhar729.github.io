@@ -19,18 +19,19 @@ feature:
 ### BITS LifeGuard – Driver Safety Jacket (Oct, 2014-Feb, 2015)<br>
 Research & Development initiatives at BITS Pilani under the umbrella of the BITS Wearable Computing project: BITS-WearComp. 
 *Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
-**Developed a fault tolerant, software tool to monitor vital signs in real time.
+** Developed a fault tolerant, software tool to monitor vital signs in real time.
 Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using Data Stream Mining.<br>
 :point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
 
 ### Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
-**Modelled and tested automated Quadcopter control across one degree of freedom
+** Modelled and tested automated Quadcopter control across one degree of freedom
 Used neural networks to perform reinforcement learning in a continuous action space using FANN (Fast Artificial Neural Network) library.
 
 ### Sentiment Analysis on Twitter feed using Active Learning <br>
-**Used active learning with a linear Support Vector Machine for learning sentiment classification models to be applied to
+** Used active learning with a linear Support Vector Machine for learning sentiment classification models to be applied to
 microblogging data streams.
 
 ### Reatime demographic insights on App features<br>
-**A platform which enables android users to visualize their daily phone usage statistics and intern earn money. The anonymised statistics are provided as a service to companies/startups enabling them to understand the demographic usage of various popular android application features using the android acceessibity service.
+** A platform which enables android users to visualize their daily phone usage statistics and intern earn money. The anonymised statistics are provided as a service to companies/startups enabling them to understand the demographic usage of various popular android application features using the android acceessibity service.
 Worked with Elastic search, kibana, Android accessibity service.
+*Presented at Sequoia::Hack Finals, 2016*
