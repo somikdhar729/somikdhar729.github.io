@@ -44,5 +44,5 @@ Prof. Dr. Rahul Banerjee, SDET Unit Chief and Head of Department, Computer Scien
    Worked with: shell scripting, Face Recognition, Face Detection and Eye Center Detection Algorithms. <br>
    The system generates interactive attendance reports and analytics of over 5000+ students University Wide (Pilani, Goa,
 Hyderabad and Dubai campus).<br>
-:point_right:  [*Link to the Google Play Store Application*] (https://play.google.com/store/apps/details?id=com.bits.e_attendv12) | [*Teachers/Students Accessible Interface*] (http://e-attend.bits-pilani.ac.in/e-attend/index.php)<br>
+:point_right:  [*Link to the Google Play Store Application*](https://play.google.com/store/apps/details?id=com.bits.e_attendv12) | [*Teachers/Students Accessible Interface*](http://e-attend.bits-pilani.ac.in/e-attend/index.php)<br>
 *Received Excellence in ICT integration award from Federation of Indian Chamber of Commerce and Industry (FICCI)
