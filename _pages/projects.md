@@ -35,3 +35,14 @@ microblogging data streams.
 ** A platform which enables android users to visualize their daily phone usage statistics and intern earn money. The anonymised statistics are provided as a service to companies/startups enabling them to understand the demographic usage of various popular android application features using the android acceessibity service.
 Worked with Elastic search, kibana, Android accessibity service.
 *Presented at Sequoia::Hack Finals, 2016*
+
+### Project E-Attend, MultimediaHCILaboratory, BITS Pilani (Jan 2014- Dec 2014) <br>
+Guide:
+Prof. B.N. Jain, Vice Chancellor, BITS Pilani
+Prof. Dr. Rahul Banerjee, SDET Unit Chief and Head of Department, Computer Science, BITS Pilani.
+** Implemented a Bio-metric based attendance system <br>
+   Worked with: shell scripting, Face Recognition, Face Detection and Eye Center Detection Algorithms. <br>
+   The system generates interactive attendance reports and analytics of over 5000+ students University Wide (Pilani, Goa,
+Hyderabad and Dubai campus).<br>
+:point_right:  [*Link to the Google Play Store Application*] (https://play.google.com/store/apps/details?id=com.bits.e_attendv12) | [*Teachers/Students Accessible Interface*] (http://e-attend.bits-pilani.ac.in/e-attend/index.php)<br>
+*Received Excellence in ICT integration award from Federation of Indian Chamber of Commerce and Industry (FICCI)
