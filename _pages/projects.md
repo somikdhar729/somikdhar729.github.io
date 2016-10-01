@@ -37,9 +37,6 @@ Worked with Elastic search, kibana, Android accessibity service.
 *Presented at Sequoia::Hack Finals, 2016*
 
 ### Project E-Attend, MultimediaHCILaboratory, BITS Pilani (Jan 2014- Dec 2014) <br>
-Guide:<br>
-Prof. B.N. Jain, Vice Chancellor, BITS Pilani <br>
-Prof. Dr. Rahul Banerjee, SDET Unit Chief and Head of Department, Computer Science, BITS Pilani.<br>
 ** Implemented a Bio-metric based attendance system <br>
    Worked with: shell scripting, Face Recognition, Face Detection and Eye Center Detection Algorithms. <br>
    The system generates interactive attendance reports and analytics of over 5000+ students University Wide (Pilani, Goa,
