@@ -19,14 +19,14 @@ feature:
 ### Honors and Awards
 <hr>
 
-- Travel scholarship for Thesis to Heidelberg, Germany.
-- National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15).
-- IBM Bluemix Hackathon (Finished 2nd in a 24hrs event).
-- Selected for INSPIRE scholarship, 2012.
-- 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
-- Credited with a Scholar Blazer for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
-- A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05%).
-- Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
+* Travel scholarship for Thesis to Heidelberg, Germany.
+* National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15).
+* IBM Bluemix Hackathon (Finished 2nd in a 24hrs event).
+* Selected for INSPIRE scholarship, 2012.
+* 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
+* Credited with a Scholar Blazer for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
+* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05%).
+* Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
 
 
 ### Position of Responsibility
