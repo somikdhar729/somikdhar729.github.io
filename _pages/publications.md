@@ -11,9 +11,9 @@ tiles: true
 feature:
   visible: false
   headline: "Featured Work"
-  category: Publications
+  category: publications
 ---
-
+<hr>
 {{ page.excerpt | markdownify }}
 
 * Load Forecasting at Distribution Transformer using IoT based Smart Meter Data from 6000 Irish Homes <br>
