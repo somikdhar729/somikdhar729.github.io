@@ -32,10 +32,10 @@ feature:
 ### Position of Responsibility
 Some of the chances where I got to share ideas and discuss problems.
 <hr>
-- Professional Assistant, Software Design Educational Technology Unit (SDET), BITS Pilani
-- Teaching Assistant Computer Networks offered by BITS Pilani [Course Nos.:  CS F 303 / IS F 303]
-      * Responsible for redesigning the lab experiments and Development of the corresponding Lab Sheets
-      * Conducted hands on session on Working with LINUX
-- Vice President, Technology and Products, ARISE IMPACT (a non-profit NGO)
-- Project Chairperson, Association for Computing Machinery, Students Chapter BITS Pilani (2013-2015)
-- Co-organizer at Google Developers Group, BITS Pilani (2014-2015)
+* Professional Assistant, Software Design Educational Technology Unit (SDET), BITS Pilani
+* Teaching Assistant Computer Networks offered by BITS Pilani [Course Nos.:  CS F 303 / IS F 303]
+  * Responsible for redesigning the lab experiments and Development of the corresponding Lab Sheets
+  * Conducted hands on session on Working with LINUX
+* Vice President, Technology and Products, ARISE IMPACT (a non-profit NGO)
+* Project Chairperson, Association for Computing Machinery, Students Chapter BITS Pilani (2013-2015)
+* Co-organizer at Google Developers Group, BITS Pilani (2014-2015)
