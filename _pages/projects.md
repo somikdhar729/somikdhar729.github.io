@@ -34,7 +34,7 @@ microblogging data streams.
 ### Reatime demographic insights on App features<br>
 ** A platform which enables android users to visualize their daily phone usage statistics and intern earn money. The anonymised statistics are provided as a service to companies/startups enabling them to understand the demographic usage of various popular android application features using the android acceessibity service.
 Worked with Elastic search, kibana, Android accessibity service.
-*Presented at Sequoia::Hack Finals, 2016*
+*Presented at Sequoia::Hack Finals, 2016* <br>
 :point_right: [Link](https://github.com/prakhar-agarwal/insights-app)
 
 ### Project E-Attend, MultimediaHCILaboratory, BITS Pilani (Jan 2014- Dec 2014) <br>
