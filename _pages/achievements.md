@@ -25,7 +25,7 @@ feature:
 * Selected for INSPIRE scholarship, 2012.
 * 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
 * Credited with a Scholar Blazer for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
-* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05%).
+* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05% among 1.13 million applicants).
 * Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
 
 
