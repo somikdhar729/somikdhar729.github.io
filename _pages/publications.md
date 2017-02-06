@@ -20,7 +20,7 @@ feature:
 <b>Prakhar Agarwal</b>, Mantinder Singh, Dr. Kumar Padmanabh <br>
 In Proceedings of the 2nd International Conference on Contemporary Computing and Informatics (IEEE) [2016]
 
-Symptomatic Diagnosis and Prognosis of Psychiatric Disorders through Personal Gadgets.<br>
+* Symptomatic Diagnosis and Prognosis of Psychiatric Disorders through Personal Gadgets.<br>
 Vidhi Jain and <b>Prakhar Agarwal</b>.<br>
 In Proceedings of CHI’17 Extended Abstracts, Denver, CO, USA, May 06-11, 2017<br>
 DOI: http://dx.doi.org/10.1145/3027063.3048417
