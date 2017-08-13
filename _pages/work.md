@@ -21,7 +21,7 @@ feature:
 
 *Microsoft Research, Bengaluru India* \| August 2017 - Present <br>
 Guide: Sundararajan Sellamanickam, Principal applied scientist in the applied sciences – CISL group of MSR India, Bangalore
-Working in the prestigious MSRI Research Fellow program to unlock my research potential in the Applied Machine Learning group.
+Working in the prestigious MSRI Research Fellow program to unlock my research potential as a part of Applied Machine Learning group.
 
 ### Software Engineer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
