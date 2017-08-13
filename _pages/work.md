@@ -17,9 +17,15 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
+### Research Fellow <img src="https://prakhar-agarwal.github.io/images/Microsoft_Research_lSmart-Contact-Lens-Google-Research.png" alt="Drawing" width="120" height ="50" align="right"/>
+
+*Microsoft Research, Bengaluru India\|August 2017 - Present <br>
+Guide: Sundararajan Sellamanickam, Principal applied scientist in the applied sciences – CISL group of MSR India, Bangalore
+Working in the prestigious MSRI Research Fellow program to unlock my research potential in the Applied Machine Learning group.
+
 ### Software Engineer <img src="https://prakhar-agarwal.github.io/images/walmartlabs.png" alt="Drawing" width="120" height="50" align="right"/>
 
-*WalmartLabs, Bengaluru, India* \| August 2016 – Present<br>
+*WalmartLabs, Bengaluru, India* \| August 2016 – July 2017<br>
 Working in the DIDC team which focuses on building a data fabric platform that caters to the needs of real time events processing and batch data processing by using latest technologies.
 My work includes building generic platform for seamless data integration across different data platforms covering traditional RDBMS and Big Data platforms (HDFS, Map/Reduce, Oozie, Hive etc.,).
 
