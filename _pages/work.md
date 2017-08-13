@@ -19,7 +19,7 @@ feature:
 
 ### Research Fellow <img src="https://prakhar-agarwal.github.io/images/Microsoft_Research_lSmart-Contact-Lens-Google-Research.png" alt="Drawing" width="120" height ="50" align="right"/>
 
-*Microsoft Research, Bengaluru India\|August 2017 - Present <br>
+*Microsoft Research, Bengaluru India* \| August 2017 - Present <br>
 Guide: Sundararajan Sellamanickam, Principal applied scientist in the applied sciences – CISL group of MSR India, Bangalore
 Working in the prestigious MSRI Research Fellow program to unlock my research potential in the Applied Machine Learning group.
 
