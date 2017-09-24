@@ -24,3 +24,7 @@ In Proceedings of the 2nd International Conference on Contemporary Computing and
 Vidhi Jain and <b>Prakhar Agarwal</b>.<br>
 In Proceedings of ACM CHI’17 Extended Abstracts, Denver, CO, USA, May 06-11, 2017<br>
 DOI: http://dx.doi.org/10.1145/3027063.3048417
+
+## Patents
+
+* A System and Method for Electricity Load Prediction (TEMP/E-1/29345/2017- CHE)
