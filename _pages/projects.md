@@ -23,6 +23,11 @@ Research & Development initiatives at BITS Pilani under the umbrella of the BITS
 Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using Data Stream Mining.<br>
 :point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
 
+### Realtime Autonomous Traffic Signal switching using Q-learning <br>
+** Presented at Gridlock Hackathon, to solve the traffic problem in Bangalore <br>
+Used Q-Learning algorithm with realtime traffic flow information to design an real-time autonomous Traffic light switching system. The system adapts itself whenever an highly important vehicle (ambulance, police, fire cars) is part added to the traffic network in an emergency condition, with an objective to provide a congestion free path for them as much as possible.<br>
+:point_right: [*Code/ProjectRepo*](https://prakhar-agarwal.github.io/traffic-qlearning/)
+
 ### Autonomous Quadcopter control (Aug 2014- Dec 2014) <br>
 ** Modelled and tested automated Quadcopter control across one degree of freedom
 Used neural networks to perform reinforcement learning in a continuous action space using FANN (Fast Artificial Neural Network) library.
