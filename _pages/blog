@@ -1,0 +1,29 @@
+---
+layout: compress
+permalink: /blog/
+title: ""
+date: 2014-06-02T15:05:16-04:00
+modified: 2016-01-04T16:38:17-05:00
+excerpt: "A selection of things I've designed, illustrated, and developed."
+ads: false
+fullwidth: true
+tiles: true
+feature:
+  visible: false
+  headline: "Featured Work"
+  category: project
+---
+
+{{ page.excerpt | markdownify }}
+
+### BITS LifeGuard – Driver Safety Jacket (Oct, 2014-Feb, 2015)<br>
+Research & Development initiatives at BITS Pilani under the umbrella of the BITS Wearable Computing project: BITS-WearComp. 
+*Wearable Computing Lab, BITS, Pilani, India* \| Oct, 2014-Feb, 2015 <br>
+** Developed a fault tolerant, software tool to monitor vital signs in real time.
+Implemented methods which learns from GSR (Galvanic Skin Response) and other physiological sensor data to detect and classify stress levels using Data Stream Mining.<br>
+:point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
+
+### Realtime Autonomous Traffic Signal switching using Q-learning <br>
+** Presented at Gridlock Hackathon, to solve the traffic problem in Bangalore <br>
+Used Q-Learning algorithm with realtime traffic flow information to design an real-time autonomous Traffic light switching system. The system adapts itself whenever an highly important vehicle (ambulance, police, fire cars) is added to the traffic network in an emergency condition, with an objective to provide a congestion free path.<br>
+:point_right: [*Code/ProjectRepo*](https://prakhar-agarwal.github.io/traffic-qlearning/)
