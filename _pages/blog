@@ -11,7 +11,8 @@ tiles: true
 feature:
   visible: false
   headline: ""
-  category: contact
+  category: blog
 ---
 
 {{ page.excerpt | markdownify }}
+
