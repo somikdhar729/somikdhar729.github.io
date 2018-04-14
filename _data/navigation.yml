@@ -14,6 +14,9 @@ main:
     
   - title: "Achievements"
     url: achievements/
+
+  - title: "Blog"
+    url: blog/
     
   - title: "Resume"
     url: resume/
