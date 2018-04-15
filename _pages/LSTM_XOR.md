@@ -7,7 +7,7 @@ modified: 2016-01-04T16:38:17-05:00
 excerpt: ""
 ads: false
 fullwidth: true
-tiles: false
+tiles: true
 feature:
   visible: false
   headline: "Featured Work"
