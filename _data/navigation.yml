@@ -13,7 +13,7 @@ main:
     url: publications/
     
   - title: "Blog"
-    url: blog/LSTM_XOR.md
+    url: blog/
     
   - title: "Achievements"
     url: achievements/
