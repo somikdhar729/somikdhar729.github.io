@@ -13,7 +13,7 @@ main:
     url: publications/
     
   - title: "Blog"
-    url: publications/
+    url: blog/
     
   - title: "Achievements"
     url: achievements/
