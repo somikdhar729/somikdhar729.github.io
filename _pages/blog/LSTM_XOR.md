@@ -1,3 +1,21 @@
+---
+layout: archive
+permalink: /blog/LSTM_XOR.md
+title: ""
+date: 2014-06-02T15:05:16-04:00
+modified: 2016-01-04T16:38:17-05:00
+excerpt: ""
+ads: false
+fullwidth: true
+tiles: true
+feature:
+  visible: false
+  headline: "Featured Work"
+  category: blog
+---
+<hr>
+{{ page.excerpt | markdownify }}
+
 This article talks about training an LSTM to solve the XOR problem: that is, given a sequence of bits, 
 determine its parity. This problem is one of the starter problem as part of OpenAI Research 2.0. The LSTM should consume the sequence, one bit at a time, and then output the 
 correct answer at the sequence’s end. Test the two approaches below:
