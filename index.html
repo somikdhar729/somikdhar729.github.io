@@ -6,19 +6,38 @@ author_profile: true
 {% include base_path %}
 
 <!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Short Bio" }}</h3>-->
+<style>
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 36px;
+  letter-spacing: 5px;
+  color: #0066cc;
+}
+  h2 {
+    text-align: left;
+    font-style: italic;
+    letter-spacing: 5px;
+    font-size: 24px;
+    color: #009900;
+  }
+  </style>
 
-<b>A little bit about me...</b>
-<hr>
-Highly capable, creative, result oriented professional with strong technology background.<br>
-I graduated from Birla Institute of Technology and Science, Pilani, India (BITS Pilani) in June of 2016, after spending four exciting years.<br><br>
 
-I am currently working as a Research Fellow at Microsoft Research, India trying to unlock 
-my research potential as a part of Applied Machine Learning group. <br> I develop compuatational methods to 
-improve human well-being combining techniques from data science, social-network analysis, and natural language processing.<br>
+<h1>🚀🤖 Inspiration - Envisioning a Future with AI and robotics 🤖🚀</h1>
+<p align=”justify” text-align: "justify">I am a master’s student at NYU, specializing in computer vision and robotics. I am keen on creating vision-based systems that can enhance human performance and efficiency in various domains.  aspire to work in industries that leverage these technologies, such as drones, manufacturing, and autonomous navigation.  </p>
 
-I love to work on challenging problems and make significant contributions to interesting, high-impact projects.
+<p align=”justify” text-align: "justify"> I am currently working on the problem of Visual Place Recognition (VPR), which is the task of matching a view of a place with a different view of the same place taken at different times. I am researching and analyzing how sequential information affects the performance of VPR algorithms.
+
+<p align="justify" text-align:"justify"> In addition to my technical skills, I have a broad range of interests in politics, economics, and personal finance. These interests enable me to assess the social impact of innovations and to balance cutting-edge R&D with ethical considerations. I believe this is essential for creating a brighter future for humanity.  </p>
+
+
+
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% include paginator.html %}
+
+
+
