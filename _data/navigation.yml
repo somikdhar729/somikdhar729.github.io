@@ -19,7 +19,8 @@ main:
     url: achievements/
     
   - title: "Resume"
-    url: resume/
+    url: pdfs/Resume Somik Dhar.pdf
+    target: "_blank"
     
   - title: "Contact"
     url: contact/
