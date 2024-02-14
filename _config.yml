@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Prakhar Agarwal"
+title                    : "Somik Dhar"
 title_separator          : "-"
-name                     : "Prakhar Agarwal"
-description              : "Prakhar Agarwal - Personal Webpage"
-url                      : https://prakhar-agarwal.github.io/
+name                     : "Somik Dhar"
+description              : "Somik Dhar - Personal Webpage"
+url                      : https://somikdhar729.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : prakhar-agarwal/prakhar-agarwal.github.io
+repository               : somikdhar729/somikdhar729.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-  - "https://www.linkedin.com/in/prakharagarwal2511"
+  - "https://www.linkedin.com/in/somikdhar327/"
   # An array of links to social media profiles
 
 # Analytics
@@ -79,35 +79,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prakhar Agarwal"
-  avatar           : "bio-photo_edit.jpg"
-  bio              : "Programmer, Developer and Aspiring Researcher"
-  location         : "Bangalore, India"
-  email            : prakharagarwal2511@gmail.com
+  name             : "Somik Dhar"
+  avatar           : "SomikDhar_Image.jpg"
+  bio              : "Engineer, Roboticist"
+  location         : "Brooklyn, New York, USA"
+  email            : somikdhar327@gmail.com
   uri              :
-  bitbucket        : prakhar_agarwal
+  bitbucket        : 
   codepen          :
   dribbble         : 
   flickr           :
-  facebook         : prakharagarwal25
+  facebook         : somik.dhar
   foursquare       :
-  github           : prakhar-agarwal
-  google_plus      : #u/0/+PrakharAgarwal2511
+  github           : somikdhar729
+  google_plus      : 
   keybase          :
-  instagram        : prakharagarwal2511
+  instagram        : 
   lastfm           :
-  linkedin         : prakharagarwal2511
+  linkedin         : somikdhar327
   pinterest        :
   soundcloud       :
-  stackoverflow    : 2061991/prakhar-agarwal
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #prakhar5050
+  twitter          : dhar_somik
   vine             :
   weibo            :
   xing             :
   youtube          :
-
+  
 
 # Reading Files
 include:
@@ -178,7 +178,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
