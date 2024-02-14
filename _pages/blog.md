@@ -15,3 +15,5 @@ feature:
 ---
 <hr>
 {{ page.excerpt | markdownify }}
+
+<img src="https://somikdhar729.github.io/images/Work_In_Progress.png" alt="Drawing" width="290" height="290" align="middle"/>

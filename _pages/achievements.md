@@ -16,26 +16,34 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-### Honors and Awards
+<style>
+a.Achievement:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.Achievement:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.Achievement:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a.Achievement:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+### 🏆Honors and Awards⭐
 <hr>
 
-* Travel scholarship for Thesis to Heidelberg, Germany.
-* National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15).
-* IBM Bluemix Hackathon (Finished 2nd in a 24hrs event).
-* Offered INSPIRE Scholarship for Academic excellence by the Department of Science and Technology, Government of India, 2012.
-* 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
-* Credited with Meritorious Student award for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
-* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05% among 1.13 million applicants).
-* Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
+* Came as a third winner in Campus Voice, an initiative by ThePrint <a href = "https://theprint.in/campus-voice/reservation-in-private-sector-will-barricade-indias-march-into-future/623054/" target="_blank" rel="noopener noreferrer" class = "Achievement"><b><i> Reservation in private sector will barricade India’s march into future</i></b></a> <br>
+* Best Overall Project in Applied Machine Learning in Rabindra Datta Memorial Awards for project in Applied Machine Learning, a competition held by
+former college alumini of batch-2004.<br>
+* Secured 99.98%tile in IIT-JEE Mains 2017<br>
 
 
-### Position of Responsibility
-Some of the chances where I got to share ideas and discuss problems.
-<hr>
-* Professional Assistant, Software Design Educational Technology Unit (SDET), BITS Pilani
-* Teaching Assistant Computer Networks offered by BITS Pilani [Course Nos.:  CS F 303 / IS F 303]
-  * Responsible for redesigning the lab experiments and Development of the corresponding Lab Sheets
-  * Conducted hands on session on Working with LINUX
-* Vice President, Technology and Products, ARISE IMPACT (a non-profit NGO)
-* Project Chairperson, Association for Computing Machinery, Students Chapter BITS Pilani (2013-2015)
-* Co-organizer at Google Developers Group, BITS Pilani (2014-2015)
