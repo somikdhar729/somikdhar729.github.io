@@ -25,7 +25,7 @@ feature:
 ## Autonomous Maze Solver Robot
 * 🤖 Developed an autonomous maze-solving robot using TurtleBot3 and ROS <br>
 * 🚀 Integrated RPLIDAR sensor for real-time obstacle detection and avoidance <br>
-*🔍 Implemented intelligent wall-following and search algorithms<br>
+* 🔍 Implemented intelligent wall-following and search algorithms<br>
 * 🧪 Leveraged TurtleBot3 for rapid prototyping and navigation strategy testing <br>
   ### Skills Demonstrated:
     * 🛠️ Mobile Robotics
