@@ -90,7 +90,8 @@ Indian Institute of Science (IISc), Bangalore <br>
 * This advanced robotic system incorporated mechanical design, modeling, control theory, computer vision, PID control, path planning, and autonomous decision-making
 * Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms <br>
 (<a href = "https://somikdhar729.github.io/pdfs/MOBILE_ROBOT_Report.pdf" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Report</i>)
-(<a href = "https://drive.google.com/file/d/18dZj0hBq_IXiXOePiThwjJaM5EECRZ0Z/view" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Video</i>)
+(<a href = "https://www.youtube.com/watch?v=Hgscy7m2fI4" target="_black" rel="noopener noreferrer class" class="Project1"><i>Project Video</i></a>)
+<!-- (<a href = "https://drive.google.com/file/d/18dZj0hBq_IXiXOePiThwjJaM5EECRZ0Z/view" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Video</i>) -->
 
  
 <!-- ### Data Science Intern <img src="https://somikdhar729.github.io/images/m76-analytics.jpg" alt="Drawing" width="100" height="100" align="right"/>
