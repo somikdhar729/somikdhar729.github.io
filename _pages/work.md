@@ -58,7 +58,7 @@ to baseline approaches in Pytorch
 <i> Feb'21 - June'21 </i> <br>
 <i><a href = "https://www.focaslab.com/" target="_blank" rel="noopener noreferrer" class="Project"> Formal Control and Autonomous Systems(FOCAS) Lab </a></i><br>
 <i>Robert-Bosch Centre for Cyber-Physical Systems (RBCCPS)</i> <br>
-<i></i>Indian Institute of Science (IISc), Bangalore</i> <br> 
+<i>Indian Institute of Science (IISc), Bangalore</i> <br> 
 
 **Supervisor**: <a href = "https://www.pushpakjagtap.com/" target="_blank" rel="noopener noreferrer" class = "Project">Dr. Pushpak Jagtap, IISc, Bangalore <br></a>
 
