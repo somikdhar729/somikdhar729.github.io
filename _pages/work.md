@@ -44,7 +44,7 @@ font-weight: bold;}
 <h1> 🚀🔬 Research Experience 📈🧪</h1>
 <h2> 🎓👨‍🔬Graduate Assitant </h2> <img src="https://somikdhar729.github.io/images/ai4ce_new_block_trans.png" alt="Drawing" width="150" height="150" align="right"/>
 <I> Jan'23 - Present</i><br>
-<a href = "https://ai4ce.github.io/" target="_blank" rel="noopener noreferrer" class="Project"> AI4CE Lab,</a> New York University<br>
+<i><a href = "https://ai4ce.github.io/" target="_blank" rel="noopener noreferrer" class="Project"> AI4CE Lab,</a> New York University</i><br>
 
 **Supervisor**: <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank" rel="noopener noreferrer" class = "Project">Dr. Chen Feng, NYU </a>
 
@@ -56,7 +56,7 @@ to baseline approaches in Pytorch
 
 <h2>🛠️Research Intern</h2>  <img src="https://somikdhar729.github.io/images/FOCAS_lab_logo.png" alt="Drawing" width="150" height="150" align="right"/>
 <i> Feb'21 - June'21 </i> <br>
-<a href = "https://www.focaslab.com/" target="_blank" rel="noopener noreferrer" class="Project"> Formal Control and Autonomous Systems(FOCAS) Lab <br></a>
+<i><a href = "https://www.focaslab.com/" target="_blank" rel="noopener noreferrer" class="Project"> Formal Control and Autonomous Systems(FOCAS) Lab </a></i><br>
 <i>Robert-Bosch Centre for Cyber-Physical Systems (RBCCPS)</i> <br>
 <i></i>Indian Institute of Science (IISc), Bangalore</i> <br> 
 
