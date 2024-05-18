@@ -48,11 +48,17 @@ font-weight: bold;}
 
 **Supervisor**: <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank" rel="noopener noreferrer" class = "Project">Dr. Chen Feng, NYU </a>
 
-* Proposed a spatiotemporal backbone to harness the sequential information for Visual Place Recognition(VPR)
-* Implementing self-attention and cross-attention mechanisms to enable the model to focus on the most relevant
-regions in each frame and across the sequence
-* Evaluating different network configurations on benchmark VPR datasets to quantify accuracy gains compared
-to baseline approaches in Pytorch
+* Developed a Variable-length VPR system handling multi-modal(images and sequences) inputs
+* Established the optimal image encoding method among foundational models, ViTs, and CNNs for VPR
+  * Models Tested
+    * Foundational Models tested: DinoV2
+    * ViT Models: ViT-b & ViT-l
+    * CNN Models: NetVLAD, ResNet50
+  * Pooling Methods:
+    * NetVLAD
+    * MixVPR
+    * GeMPool
+    * MaxPool
 
 <h2>🛠️Research Intern</h2>  <img src="https://somikdhar729.github.io/images/FOCAS_lab_logo.png" alt="Drawing" width="150" height="150" align="right"/>
 <i> Feb'21 - June'21 </i> <br>
