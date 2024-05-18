@@ -50,11 +50,11 @@ font-weight: bold;}
 
 * Developed a Variable-length VPR system handling multi-modal(images and sequences) inputs
 * Established the optimal image encoding method among foundational models, ViTs, and CNNs for VPR
-  * Models Tested
+  * <b>Models Tested</b>
     * Foundational Models tested: DinoV2
     * ViT Models: ViT-b & ViT-l
     * CNN Models: NetVLAD, ResNet50
-  * Pooling Methods:
+  * <b>Pooling Methods</b>:
     * NetVLAD
     * MixVPR
     * GeMPool
