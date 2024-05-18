@@ -82,7 +82,9 @@ font-weight: bold;}
 <h2> 🛠️Research Intern</h2> <img src="https://somikdhar729.github.io/images/IISc-Ril.jpg" alt="Drawing" width="150" height="150" align="right"/>
 <a href = "https://cpdm.iisc.ac.in/ril/" target="_blank" rel="noopener noreferrer" class = "Project"> Robotics Innovations Lab(RIL), Indian Institute of Science, Bangalore <a> <br>
 <i>  Jul'21 – Dec'21</i><br>
-<i>Supervisor: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br></i>
+
+  
+** Supervisor**: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br>
 * Constructed a differential drive rover robot platform with DC motors, encoders, microcontroller, and forklift <br>
 * Developed models and control programs in MATLAB to enable autonomous navigation:
   * Characterized gear motor response through PWM speed sweeps and data analysis 
