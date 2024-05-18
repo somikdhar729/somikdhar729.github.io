@@ -17,5 +17,8 @@ feature:
 {{ page.excerpt | markdownify }}
 
 <!-- <img src="https://somikdhar729.github.io/images/Work_In_Progress.png" alt="Drawing" width="290" height="290" align="middle"/> -->
-1. Visual Place Recognition: <a href="https://medium.com/@sd5023/visual-place-recognition-8999307ebb2f" target="_blank" rel="noopener noreferrer" class = "Project">Link </a>
+
+* <b>Visual Place Recognition</b>: <a href="https://medium.com/@sd5023/visual-place-recognition-8999307ebb2f" target="_blank" rel="noopener noreferrer" class = "Project">Link </a>
+
+
 
