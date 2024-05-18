@@ -85,15 +85,15 @@ font-weight: bold;}
 <i>Supervisor: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br></i>
 * Constructed a differential drive rover robot platform with DC motors, encoders, microcontroller, and forklift <br>
 * Developed models and control programs in MATLAB to enable autonomous navigation:
-  * Characterized gear motor response through PWM speed sweeps and data analysis <br>
-  * Implemented differential drive kinematics for low-level control of driving and arm motions <br>
-  * Derived and simulated kinematic and dynamic models of rover motion and used for open loop control <br>
-  * Designed and tuned a PID controller with wheel encoder feedback for precise closed loop position and heading control <br>
-  * Added webcam and localization algorithms to determine rover location within the test arena <br>
-  * Integrated navigation and vision systems for high-level arena navigation and object manipulation tasks <br>
-  * Enhanced autonomy with line following and obstacle avoidance behaviors <br>
+  * Characterized gear motor response through PWM speed sweeps and data analysis 
+  * Implemented differential drive kinematics for low-level control of driving and arm motions 
+  * Derived and simulated kinematic and dynamic models of rover motion and used for open loop control 
+  * Designed and tuned a PID controller with wheel encoder feedback for precise closed loop position and heading control 
+  * Added webcam and localization algorithms to determine rover location within the test arena 
+  * Integrated navigation and vision systems for high-level arena navigation and object manipulation tasks 
+  * Enhanced autonomy with line following and obstacle avoidance behaviors 
 * This advanced robotic system incorporated mechanical design, modeling, control theory, computer vision, PID control, path planning, and autonomous decision-making
-* Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms <br>
+* Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms 
 (<a href = "https://somikdhar729.github.io/pdfs/MOBILE_ROBOT_Report.pdf" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Report</i>)
 (<a href = "https://www.youtube.com/watch?v=Hgscy7m2fI4" target="_black" rel="noopener noreferrer class" class="Project1"><i>Project Video</i></a>)
 <!-- (<a href = "https://drive.google.com/file/d/18dZj0hBq_IXiXOePiThwjJaM5EECRZ0Z/view" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Video</i>) -->
