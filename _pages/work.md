@@ -96,7 +96,8 @@ font-weight: bold;}
   * Integrated navigation and vision systems for high-level arena navigation and object manipulation tasks 
   * Enhanced autonomy with line following and obstacle avoidance behaviors 
 * This advanced robotic system incorporated mechanical design, modeling, control theory, computer vision, PID control, path planning, and autonomous decision-making
-* Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms 
+* Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms
+  
 (<a href = "https://somikdhar729.github.io/pdfs/MOBILE_ROBOT_Report.pdf" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Report</i>)
 (<a href = "https://www.youtube.com/watch?v=Hgscy7m2fI4" target="_black" rel="noopener noreferrer class" class="Project1"><i>Project Video</i></a>)
 <!-- (<a href = "https://drive.google.com/file/d/18dZj0hBq_IXiXOePiThwjJaM5EECRZ0Z/view" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Video</i>) -->
