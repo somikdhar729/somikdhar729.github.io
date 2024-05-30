@@ -43,7 +43,7 @@ font-weight: bold;}
 {{ page.excerpt | markdownify }}
 <h1> 🚀🔬 Research Experience 📈🧪</h1>
 <h2> 🎓👨‍🔬Graduate Assitant </h2> <img src="https://somikdhar729.github.io/images/ai4ce_new_block_trans.png" alt="Drawing" width="150" height="150" align="right"/>
-<I> Jan'23 - Present</i><br>
+<I> Jan'23 - May'24</i><br>
 <i><a href = "https://ai4ce.github.io/" target="_blank" rel="noopener noreferrer" class="Project"> AI4CE Lab,</a> New York University</i><br>
 
 **Supervisor**: <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank" rel="noopener noreferrer" class = "Project">Dr. Chen Feng, NYU </a>
@@ -80,8 +80,9 @@ font-weight: bold;}
   
 
 <h2> 🛠️Research Intern</h2> <img src="https://somikdhar729.github.io/images/IISc-Ril.jpg" alt="Drawing" width="150" height="150" align="right"/>
-<a href = "https://cpdm.iisc.ac.in/ril/" target="_blank" rel="noopener noreferrer" class = "Project"> Robotics Innovations Lab(RIL), Indian Institute of Science, Bangalore <a> <br>
 <i>  Jul'21 – Dec'21</i><br>
+<a href = "https://cpdm.iisc.ac.in/ril/" target="_blank" rel="noopener noreferrer" class = "Project"> Robotics Innovations Lab(RIL), Indian Institute of Science, Bangalore <a> <br>
+
 
   
 **Supervisor**: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br>
