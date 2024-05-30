@@ -26,7 +26,7 @@ feature:
 * <b>Goal</b>:  use various algorithms on Point Cloud data such as Voxel Grid filtering, RANSAC segmentation, and Euclidean Clustering with KD-Tree to detect obstacles
 * <b> Pipeline </b>
 
-  <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" alt="Drawing"/>
+  <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" alt="Drawing" style="width: 50%;"/>
 
 
 
