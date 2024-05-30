@@ -84,7 +84,7 @@ font-weight: bold;}
 <i>  Jul'21 – Dec'21</i><br>
 
   
-** Supervisor**: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br>
+**Supervisor**: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br>
 * Constructed a differential drive rover robot platform with DC motors, encoders, microcontroller, and forklift <br>
 * Developed models and control programs in MATLAB to enable autonomous navigation:
   * Characterized gear motor response through PWM speed sweeps and data analysis 
