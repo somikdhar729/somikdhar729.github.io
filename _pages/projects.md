@@ -25,9 +25,10 @@ feature:
 ## Lidar Obstacle Detection with ROS
 * <b>Goal</>:  use various algorithms on Point Cloud data such as Voxel Grid filtering, RANSAC segmentation, and Euclidean Clustering with KD-Tree to detect obstacles
 * <b> Pipeline </b>
+
   <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" alt="Drawing" width="150" height="150" align="left"/>
 
-<br>
+
 
 ## Autonomous Maze Solver Robot
 * 🤖 Developed an autonomous maze-solving robot using TurtleBot3 and ROS <br>
