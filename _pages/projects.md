@@ -28,7 +28,10 @@ feature:
 
   <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" alt="Drawing" style="width: 50%;"/>
 
+* <b> Results </b> 
+The following animation shows the segmented point clouds - obstacles (in yellow) and road (in green)
 
+    <img src="https://somikdhar729.github.io/images/pcl_gif.gif" alt="Drawing" style="width: 50%;"/>
 
 ## Autonomous Maze Solver Robot
 * 🤖 Developed an autonomous maze-solving robot using TurtleBot3 and ROS <br>
