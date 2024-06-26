@@ -103,7 +103,7 @@ font-weight: bold;}
 <!-- (<a href = "https://drive.google.com/file/d/18dZj0hBq_IXiXOePiThwjJaM5EECRZ0Z/view" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Video</i>) -->
 
  
-<!-- ### Data Science Intern <img src="https://somikdhar729.github.io/images/m76-analytics.jpg" alt="Drawing" width="100" height="100" align="right"/>
+### Data Science Intern <img src="https://somikdhar729.github.io/images/m76-analytics.jpg" alt="Drawing" width="100" height="100" align="right"/>
 <a href = "https://www.m76analytics.com/" target="_blank" rel="noopener noreferrer" class = "Project"> M76 Analytics, Mumbai </a>
 <i> Aug'20 – Oct'20</i> <br>
 <i>Supervisors: Jai Mrug, Srikanth Atkuri</i><br>
@@ -111,7 +111,7 @@ font-weight: bold;}
 * Enabled more efficient analysis by engineering the data into structured formats by 25% <br>
 * Built scripts for tasks including data formatting, handling missing values, outlier detection, feature encoding, and normalization<br>
 * Deployed data pipeline at the backend of the organization's decision support system "MEGO"<br>
-* Demonstrated skills in Python programming, data manipulation, pipeline development, and integration with business systems -->
+* Demonstrated skills in Python programming, data manipulation, pipeline development, and integration with business systems 
 
 
 
