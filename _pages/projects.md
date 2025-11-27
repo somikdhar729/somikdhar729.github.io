@@ -58,16 +58,15 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 <h1> 🛠️🎓 Mentored Projects 🚀🎓</h1>
 <hr>
  
-## Virtual Reality Benchmarking for Egocentric Fast Target Prediction Algorithms
+## VR-Based Smart Whack-A-Mole: A Benchmarking Platform for Target Prediction Algorithms
 <i> Aug'22 - Dec'22</i><br>
 * The project was done as part of the "Robot Perception" Course at NYU
-* Designed and implemented an immersive VR game on Oculus for benchmarking hand-target prediction algorithms <br>
-* Egocentric Hand-Target Reaching Datasets: A compiled dataset of 21 right-hand trajectories with varying object distances <br>
-* Benchmarking and Standardized Metrics: Developed standardized performance metrics for objective algorithm comparisons <br>
-* Provided background research, raw tracking data, and documented procedures to inform system design <br>
-* Contributed to creating an engaging VR environment for reliable and practical algorithm testing <br>
+* Designed and developed a VR Whack-A-Mole benchmarking game in Unity, integrated with Oculus headset and Leap Motion IR for egocentric hand tracking <br>
+* Created comprehensive egocentric hand-target reaching datasets from 4 users (2900+ trials at 100Hz), featuring 21-finger centroid trajectories across scaled inter-target distances (0.7-1.0) <br>
+* Implemented and benchmarked diverse target prediction algorithms: analytical velocity-based, DTW data-driven (91% test acc.), and LSTM/RNN models (up to 90% real-time AI scores) <br>
+* Established standardized metrics including prediction speed histograms, multi-class accuracy, confidence scores, and MAE for trajectory point prediction (0.0018). <br>
+* Conducted robust real-time evaluations (100 trials/model at unseen scales 0.58/0.9), revealing LSTM superiority over DTW due to computational efficiency.<br>
 * Enabled quantitative benchmarking of prediction algorithms through an interactive game format <br>
-* Demonstrated skills in VR development, data collection, benchmark design, and documentation <br>
 
 (<a href = "https://drive.google.com/file/d/1b5OidOE3OiEDEcAab8-1oqTwOLCEurrM/view?usp=share_link" target="_blank" rel="noopener noreferrer" class = "Project"><i>Paper</i>)
   
@@ -95,5 +94,6 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 * Obtained the average steady-state error to be around 0.5 degrees  for controlling arm position using PID controller
 * Project demonstrated expertise in modeling, control theory, and simulation of robotic systems<br>
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
