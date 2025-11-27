@@ -34,15 +34,10 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
     <img src="https://somikdhar729.github.io/images/pcl_gif.gif" alt="Drawing" style="width: 50%;"/>
 
 ## Autonomous Maze Solver Robot
-* 🤖 Developed an autonomous maze-solving robot using TurtleBot3 and ROS <br>
-* 🚀 Integrated RPLIDAR sensor for real-time obstacle detection and avoidance <br>
-* 🔍 Implemented intelligent wall-following and search algorithms<br>
-* 🧪 Leveraged TurtleBot3 for rapid prototyping and navigation strategy testing <br>
-  ### Skills Demonstrated:
-    * 🛠️ Mobile Robotics
-    * 🌐 Navigation Algorithms
-    * 🛡️ Sensor Integration
-    * 💻 ROS Development
+* Developed an autonomous maze-solving robot using TurtleBot3 and ROS <br>
+* Integrated RPLIDAR sensor for real-time obstacle detection and avoidance <br>
+* Implemented intelligent wall-following and search algorithms<br>
+* Leveraged TurtleBot3 for rapid prototyping and navigation strategy testing <br>
 
 <a href = "https://somikdhar729.github.io/images/Video 1.mp4" target="_blank" rel="noopener noreferrer" class = "Project"><i>(Video 1)</i> <a href = "https://somikdhar729.github.io/images/Video 2.mp4" target="_blank" rel="noopener noreferrer" class = "Project"><i>(Video 2)</i> <a href = "https://somikdhar729.github.io/images/Video 3.mp4" target="_blank" rel="noopener noreferrer" class = "Project"><i>(Video 3)</i>  
 
@@ -94,6 +89,7 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 * Obtained the average steady-state error to be around 0.5 degrees  for controlling arm position using PID controller
 * Project demonstrated expertise in modeling, control theory, and simulation of robotic systems<br>
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
