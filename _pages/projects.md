@@ -56,7 +56,7 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 ## VR-Based Smart Whack-A-Mole: A Benchmarking Platform for Target Prediction Algorithms
 <i> Aug'22 - Dec'22</i><br>
 
-<b>Overview:</> Developed a VR-based Whack-A-Mole benchmarking platform in Unity, integrated with Oculus and Leap Motion IR for egocentric hand tracking.
+<b>Overview:</b> Developed a VR-based Whack-A-Mole benchmarking platform in Unity, integrated with Oculus and Leap Motion IR for egocentric hand tracking.
 <b>Contribution</b>
 * Collected a large-scale egocentric hand-target dataset from 4 users (2,900+ trials at 100Hz), including 21-finger centroid trajectories across scaled inter-target distances (0.7–1.0).
 * Implemented and benchmarked multiple target prediction algorithms: analytical velocity-based, DTW (91% test accuracy), and LSTM/RNN models (up to 90% real-time AI scores).
@@ -92,6 +92,7 @@ $\tau = ml^2\ddot\theta + mgl\sin\theta$
 * Designed and tuned a PID controller (Kp=54.5, Ki=15.3, Kd=48.5, N=60) to stabilize the manipulator for target angles between 30°–90° from initial states up to 0°–90°, achieving settling times under 3 seconds
 * Validated performance through multi-angle step responses (0→45°, 0→90°, 60→45°, 90→30°), demonstrating zero steady-state error and low overshoot beyond the linearization region.
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
