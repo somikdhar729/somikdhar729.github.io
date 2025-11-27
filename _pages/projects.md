@@ -55,17 +55,15 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
  
 ## VR-Based Smart Whack-A-Mole: A Benchmarking Platform for Target Prediction Algorithms
 <i> Aug'22 - Dec'22</i><br>
-* The project was done as part of the "Robot Perception" Course at NYU
-* Designed and developed a VR Whack-A-Mole benchmarking game in Unity, integrated with Oculus headset and Leap Motion IR for egocentric hand tracking <br>
-* Created comprehensive egocentric hand-target reaching datasets from 4 users (2900+ trials at 100Hz), featuring 21-finger centroid trajectories across scaled inter-target distances (0.7-1.0) <br>
-* Implemented and benchmarked diverse target prediction algorithms: analytical velocity-based, DTW data-driven (91% test acc.), and LSTM/RNN models (up to 90% real-time AI scores) <br>
-* Established standardized metrics, including prediction speed histograms, multi-class accuracy, confidence scores, and MAE for trajectory point prediction (0.0018). <br>
-* Conducted robust real-time evaluations (100 trials/model at unseen scales 0.58/0.9), revealing LSTM superiority over DTW due to computational efficiency.<br>
-* Enabled quantitative benchmarking of prediction algorithms through an interactive game format <br>
 
+<b>Overview:</> Developed a VR-based Whack-A-Mole benchmarking platform in Unity, integrated with Oculus and Leap Motion IR for egocentric hand tracking.
+<b>Contribution</b>
+* Collected a large-scale egocentric hand-target dataset from 4 users (2,900+ trials at 100Hz), including 21-finger centroid trajectories across scaled inter-target distances (0.7–1.0).
+* Implemented and benchmarked multiple target prediction algorithms: analytical velocity-based, DTW (91% test accuracy), and LSTM/RNN models (up to 90% real-time AI scores).
+*Designed standardized evaluation metrics: prediction speed distributions, multi-class accuracy, confidence scores, and trajectory point MAE (0.0018).
+* Conducted robust real-time testing (100 trials/model at unseen scales 0.58–0.9), demonstrating LSTM models outperform DTW in efficiency and real-time performance.
+* Created an interactive game environment for quantitative benchmarking of prediction algorithms, enabling intuitive evaluation of egocentric hand tracking models.
 (<a href = "https://drive.google.com/file/d/1b5OidOE3OiEDEcAab8-1oqTwOLCEurrM/view?usp=share_link" target="_blank" rel="noopener noreferrer" class = "Project"><i>Paper</i>)
-  
- 
   
 ### Modelling and Control of a Quadrotor System
 
@@ -94,6 +92,7 @@ $\tau = ml^2\ddot\theta + mgl\sin\theta$
 * Designed and tuned a PID controller (Kp=54.5, Ki=15.3, Kd=48.5, N=60) to stabilize the manipulator for target angles between 30°–90° from initial states up to 0°–90°, achieving settling times under 3 seconds
 * Validated performance through multi-angle step responses (0→45°, 0→90°, 60→45°, 90→30°), demonstrating zero steady-state error and low overshoot beyond the linearization region.
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
