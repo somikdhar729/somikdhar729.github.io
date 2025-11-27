@@ -71,6 +71,7 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 
 *Final Year Project, IIEST Shibpur* \| August 2020 – May 2021<br>
 <i>Supervisors: Dr. Ashoke Sutradhar, Professor, IIEST Shibpur </i><br>
+
 <b>Overview: </b> Design a dynamic simulation model for a stable flight control for a quadcopter in SIMULINK
 <b>Contribution</b>
 * Formulated the 6-DOF motion equations using the Newton-Euler method, modeling thrust, drag, gyroscopic effects, and actuator limitations.
@@ -83,6 +84,13 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 
 *IIEST Shibpur* \| December 2019 – January 2020<br>
 <i>Supervisor: Dr. Aparajita Sengupta, Professor, IIEST Shibpur</i><br>
+
+<b>Overview:</b>Developed a nonlinear dynamic model and stabilization controller for a single-link robotic manipulator using Lagrangian mechanics
+
+* Derived the nonlinear dynamics using Lagrangian and Euler–Lagrange methods, obtaining the second-order system
+  $$
+ml^2\ddot\theta + mgl\sin\theta = \tau
+$$
 * Developed control strategy to stabilize a single link robotic manipulator using Lagrangian formulation
 * Derived mathematical model representing dynamics of the system.
 * Linearized model and designed PID controller to achieve stabilization
@@ -90,6 +98,7 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 * Obtained the average steady-state error to be around 0.5 degrees  for controlling arm position using PID controller
 * Project demonstrated expertise in modeling, control theory, and simulation of robotic systems<br>
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
