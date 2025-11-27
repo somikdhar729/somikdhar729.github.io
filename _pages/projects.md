@@ -85,18 +85,16 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 *IIEST Shibpur* \| December 2019 – January 2020<br>
 <i>Supervisor: Dr. Aparajita Sengupta, Professor, IIEST Shibpur</i><br>
 
-<b>Overview:</b>Developed a nonlinear dynamic model and stabilization controller for a single-link robotic manipulator using Lagrangian mechanics
+<b>Overview:</b> Developed a nonlinear dynamic model and stabilization controller for a single-link robotic manipulator using Lagrangian mechanics
 
 * Derived the nonlinear dynamics using Lagrangian and Euler–Lagrange methods, obtaining the second-order system
 $\tau = ml^2\ddot\theta + mgl\sin\theta$
 
-* Developed control strategy to stabilize a single link robotic manipulator using Lagrangian formulation
-* Derived mathematical model representing dynamics of the system.
-* Linearized model and designed PID controller to achieve stabilization
-* Simulated controller performance in MATLAB and analyzed results 
-* Obtained the average steady-state error to be around 0.5 degrees  for controlling arm position using PID controller
-* Project demonstrated expertise in modeling, control theory, and simulation of robotic systems<br>
+* Linearized the system around the unstable equilibrium at θ = 45°, producing a state-space model with an unstable pole at +2.081 rad/s
+* Designed and tuned a PID controller (Kp=54.5, Ki=15.3, Kd=48.5, N=60) to stabilize the manipulator for target angles between 30°–90° from initial states up to 0°–90°, achieving settling times under 3 seconds
+* Validated performance through multi-angle step responses (0→45°, 0→90°, 60→45°, 90→30°), demonstrating zero steady-state error and low overshoot beyond the linearization region.
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
