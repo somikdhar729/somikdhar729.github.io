@@ -26,7 +26,7 @@ feature:
 * <b>Goal</b>:  use various algorithms on Point Cloud data such as Voxel Grid filtering, RANSAC segmentation, and Euclidean Clustering with KD-Tree to detect obstacles
 * <b> Pipeline </b>
 
-  <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" style="width: auto; max-width: 100%; height: auto;"/>
+  <img src="https://somikdhar729.github.io/images/lidar_pipeline.png" style="width: auto; max-width: 750%; height: auto;"/>
 
 * <b> Results </b> 
 The following animation shows the segmented point clouds - obstacles (in yellow) and road (in green)
@@ -89,6 +89,7 @@ The following animation shows the segmented point clouds - obstacles (in yellow)
 * Obtained the average steady-state error to be around 0.5 degrees  for controlling arm position using PID controller
 * Project demonstrated expertise in modeling, control theory, and simulation of robotic systems<br>
 (<a href = "https://somikdhar729.github.io/pdfs/Stabilisation of single link manipulator- ASG.pdf" target="_blank" rel="noopener noreferrer" class = "Project"><i>Report</i>)
+
 
 
 
