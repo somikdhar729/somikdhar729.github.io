@@ -41,24 +41,28 @@ font-weight: bold;}
 </style>
 
 {{ page.excerpt | markdownify }}
-<h1> 🚀🔬 Research Experience 📈🧪</h1>
+<h1> Professional Experience </h1>
+<h2> Ai & Perception Engineer </h2>
+<I> Feb'25 - Present </I>
+
+* Designed and deployed real-time vision + control pipelines for UAV tracking, autonomous landing, and perception-guided navigation under strict edge-compute constraints.
+* Built low-latency video streaming systems (GStreamer + RTSP/UDP), sustaining 27–28 FPS from a 30 FPS camera feed on embedded platforms.
+* Implemented multi-core and multi-threaded optimizations in Python/C++ to reduce perception-to-actuation latency by 30%.
+* Worked across Jetson (Xavier/Orin), Raspberry Pi, and custom camera modules, contributing to sensor integration, camera evaluation, and model optimization for RGB + thermal pipelines.
+* Currently exploring GNSS-denied autonomy, focusing on early-stage research into vision-based navigation for UAVs.
+
+<h1> Research Experience </h1>
 <h2> 🎓👨‍🔬Graduate Assitant </h2> <img src="https://somikdhar729.github.io/images/ai4ce_new_block_trans.png" alt="Drawing" width="150" height="150" align="right"/>
 <I> Jan'23 - May'24</i><br>
 <i><a href = "https://ai4ce.github.io/" target="_blank" rel="noopener noreferrer" class="Project"> AI4CE Lab,</a> New York University</i><br>
 
 **Supervisor**: <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank" rel="noopener noreferrer" class = "Project">Dr. Chen Feng, NYU </a>
 
-* Developed a Variable-length VPR system handling multi-modal(images and sequences) inputs
-* Established the optimal image encoding method among foundational models, ViTs, and CNNs for VPR
-  * <b>Models Tested</b>
-    * Foundational Models tested: DinoV2
-    * ViT Models: ViT-b & ViT-l
-    * CNN Models: NetVLAD, ResNet50
-  * <b>Pooling Methods</b>:
-    * NetVLAD
-    * MixVPR
-    * GeMPool
-    * MaxPool
+* Developed and prototyped video-based VPR pipelines using CNN encoders, NetVLAD descriptors, and sequential matching for GPS-denied navigation.
+* Implemented multiple VPR algorithms (NetVLAD, SeqMatchNet, SeqNet) and built tooling for sequence construction, temporal feature aggregation, and distribution-based similarity comparisons (KL / JS divergence).
+* Designed experiments to evaluate robustness across sequence lengths, key-frame weighting, temporal ordering, and similarity metrics, leading to improved Recall@5 through optimized feature weighting strategies.
+ Built end-to-end evaluation pipelines: KD-Tree ground-truth generation, sliding-window sequence construction, NetVLAD embedding extraction, and Recall@N benchmarking.
+* Worked with researchers to explore new ideas for distribution-based sequence descriptors, temporal invariance, and connections between image-VPR and video-VPR models.
 
 <h2>🛠️Research Intern</h2>  <img src="https://somikdhar729.github.io/images/FOCAS_lab_logo.png" alt="Drawing" width="150" height="150" align="right"/>
 <i> Feb'21 - June'21 </i> <br>
@@ -112,6 +116,7 @@ font-weight: bold;}
 * Built scripts for tasks including data formatting, handling missing values, outlier detection, feature encoding, and normalization<br>
 * Deployed data pipeline at the backend of the organization's decision support system "MEGO"<br>
 * Demonstrated skills in Python programming, data manipulation, pipeline development, and integration with business systems 
+
 
 
 
