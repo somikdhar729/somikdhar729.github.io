@@ -20,8 +20,14 @@ feature:
 <style>
 a.Project:link { color: black; background-color: transparent; text-decoration: none; } a.Project:visited { color: black; background-color: transparent; text-decoration: none; } a.Project:hover { color: red; background-color: transparent; text-decoration: underline; } a.Project:active { color: yellow; background-color: transparent; text-decoration: underline; }
 </style>
-* <b>Visual Place Recognition</b>: <a href="https://medium.com/@sd5023/visual-place-recognition-8999307ebb2f" target="_blank" rel="noopener noreferrer" class = "Project">Medium article </a>
-* <b>Safety of Multi-Robot Systems Using Control Barrier Functions</b>: <a href="https://medium.com/@sd5023/safety-of-multi-robot-systems-using-control-barrier-functions-406b95733a67" target="_blank" rel="noopener noreferrer" class="Project">Medium article</a>
+## Medium Articles
+* <b>Visual Place Recognition</b>: <a href="https://medium.com/@sd5023/visual-place-recognition-8999307ebb2f" target="_blank" rel="noopener noreferrer" class = "Project">Link </a>
+* <b>Safety of Multi-Robot Systems Using Control Barrier Functions</b>: <a href="https://medium.com/@sd5023/safety-of-multi-robot-systems-using-control-barrier-functions-406b95733a67" target="_blank" rel="noopener noreferrer" class="Project">Link</a>
+
+## CUDA
+* <b> Optimizing GEMM</b>: <a href="https://sd327.bearblog.dev/blog/optimizing_gemm/" target="_blank" rel="noopener noreferrer" class="CUDA">Blog Link</a>
+* <b> Optimizing Reduction</b>: <a href="https://somikdhar.substack.com/p/worklog-reduction-in-cuda" target="_blank" rel="noopener noreferrer" class="CUDA">Blog Link</a>
+
 
 
 
