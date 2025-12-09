@@ -90,17 +90,16 @@ font-weight: bold;}
 
   
 **Supervisor**: Dr. Abhra Roy Chowdhury, Indian Institute of Science<br>
-* Constructed a differential drive rover robot platform with DC motors, encoders, microcontroller, and forklift <br>
-* Developed models and control programs in MATLAB to enable autonomous navigation:
-  * Characterized gear motor response through PWM speed sweeps and data analysis 
-  * Implemented differential drive kinematics for low-level control of driving and arm motions 
-  * Derived and simulated kinematic and dynamic models of rover motion and used for open loop control 
-  * Designed and tuned a PID controller with wheel encoder feedback for precise closed loop position and heading control 
-  * Added webcam and localization algorithms to determine rover location within the test arena 
-  * Integrated navigation and vision systems for high-level arena navigation and object manipulation tasks 
-  * Enhanced autonomy with line following and obstacle avoidance behaviors 
-* This advanced robotic system incorporated mechanical design, modeling, control theory, computer vision, PID control, path planning, and autonomous decision-making
-* Demonstrated expertise in mechatronics, autonomous robotics, and advanced control algorithms
+* Built an autonomous differential-drive rover using DC motors, encoders, a microcontroller, and a forklift-style mechanism for object manipulation.
+* Developed MATLAB-based models and control programs for autonomous navigation, including:
+  * Characterizing motor response through PWM speed sweeps and data analysis
+  * Implementing differential-drive kinematics for locomotion and arm control
+  * Deriving and simulating kinematic and dynamic models for open-loop motion control
+  * Designing and tuning a PID controller with encoder feedback for accurate position and heading control
+* Added a webcam and localization algorithms to estimate rover position and enable vision-guided navigation.
+* Integrated motion control, perception, and planning to perform high-level arena navigation and object manipulation tasks.
+* Enhanced autonomy with line-following and obstacle-avoidance behaviors.
+* Demonstrated strong skills in mechatronics, robotics modeling, control theory, computer vision, and autonomous decision-making.
   
 (<a href = "https://somikdhar729.github.io/pdfs/MOBILE_ROBOT_Report.pdf" target="_blank" rel="noopener noreferrer" class = "Project1"><i>Project Report</i>)
 (<a href = "https://www.youtube.com/watch?v=Hgscy7m2fI4" target="_black" rel="noopener noreferrer class" class="Project1"><i>Project Video</i></a>)
@@ -116,6 +115,7 @@ font-weight: bold;}
 * Built scripts for tasks including data formatting, handling missing values, outlier detection, feature encoding, and normalization<br>
 * Deployed data pipeline at the backend of the organization's decision support system "MEGO"<br>
 * Demonstrated skills in Python programming, data manipulation, pipeline development, and integration with business systems 
+
 
 
 
