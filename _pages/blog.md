@@ -27,6 +27,7 @@ a.Project:link { color: black; background-color: transparent; text-decoration: n
 ## CUDA
 * <b> Optimizing GEMM</b>: <a href="https://sd327.bearblog.dev/blog/optimizing_gemm/" target="_blank" rel="noopener noreferrer" class="Project">Blog Link</a>
 * <b> Optimizing Reduction</b>: <a href="https://somikdhar.substack.com/p/worklog-reduction-in-cuda" target="_blank" rel="noopener noreferrer" class="Project">Blog Link</a>
+* <b>Optimizing Softmax Kernel</b>:<a href="https://sd327.bearblog.dev/blog/optimizing_softmax/" target="_blank" rel="noopener noreferrer" class="Project">Blog Link</a>
 
 
 
